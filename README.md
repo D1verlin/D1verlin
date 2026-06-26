@@ -21,10 +21,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=D1verlin&show_icons=true&theme=dark&locale=ru" alt="GitHub Stats" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D1verlin&layout=compact&theme=dark" alt="Top Languages" width="48%">
 </p>
-
----
-
-### 📫 Контакты
-
-* **Сайт:** [diverlin.ru](https://diverlin.ru)
-* **X (Twitter):** [@d1verlin](https://twitter.com/d1verlin)
